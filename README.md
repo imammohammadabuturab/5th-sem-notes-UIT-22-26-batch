@@ -3,9 +3,9 @@
 Welcome to my GitHub repository of notes, resources, and references for the **5th semester** of **Computer Science and Engineering (CSE)**.
 These notes are based on the lectures delivered by our professors and organized subject-wise for easy reference.
 
-> 🧑‍🎓 Maintained by: [Imam Mohammad Abuturab]  
+> 🧑‍🎓 Maintained by: *Imam Mohammad Abuturab*
 > 📅 Semester: 5th (2022-2026)  
-> 🎓 College: [University Institute Of Technology, BU]  
+> 🎓 College: University Institute of Technology, BU  
 
 ---
 
@@ -51,7 +51,6 @@ Each folder contains:
 1. Clone or download the repository
 2. Navigate to the subject you want to study
 3. Open the PDFs/Notes and start learning!
-4. Use it alongside your textbooks or lecture slides
 
 ---
 
@@ -70,9 +69,9 @@ These notes are **not official** and may vary depending on your faculty, batch, 
 ## 📬 Contact
 
 If you found this helpful or want to give feedback or request updates:
-- 📧 Email: `mdimam0703@gmail.com`
+- 📧 Email: [mdimam0703@gmail.com](mailto:mdimam0703@gmail.com)
 - 💬 GitHub Issues or Discussions
-- DM: [(https://www.instagram.com/abuturab.07/)]
+- 📱 Instagram: [@abuturab.07](https://www.instagram.com/abuturab.07/)
 
 ---
 
